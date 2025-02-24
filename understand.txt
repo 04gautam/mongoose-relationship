@@ -1,0 +1,8 @@
+Controll filow of the Application
+
+1: connect to the Data Base. ✅
+2: Creating the schemas of (User and post). ✅
+3: Creating the Models of (User and Post). ✅
+4: Creating 1st user with user data using ("/create-user").✅
+5: Creating 1st post with Post data using ("/create-post").✅
+
